@@ -1,4 +1,4 @@
-# Data Science Final Project
+# Data Science Coursera Course Final Project
 
 This repository contains the final project for the Data Science course. The project demonstrates various data science concepts, tools, and techniques using JupyterLite Notebook.
 
